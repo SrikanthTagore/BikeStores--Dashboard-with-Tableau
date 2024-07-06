@@ -1,15 +1,15 @@
 # BikeStores--Dashboard-with-Tableau
+
 A complete data analytics project using SQL, Excel, and created a Tableau dashboard, as well as an MS Excel dashboard.
 
 Learnt Data Visualization and Data Analytics with Tableau by solving Analytics Project
 
-**View  my Tableau-Projects Dashboards on my Tableau Public Profile link -https://public.tableau.com/views/BikeStoresDashboards_17138416109970/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link**
+**View my Tableau-Projects Dashboards on my Tableau Public Profile link -https://public.tableau.com/views/BikeStoresDashboards_17138416109970/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link**
 
+_Description:_
+This project focuses on analyzing and reporting data from bike stores using a combination of SQL, Excel, and Tableau. The process involves extracting data using SQL queries, performing analysis in Excel using pivot tables, and creating interactive dashboards in Tableau for comprehensive visualization and reporting.\*
 
-*Description:*
-This project focuses on analyzing and reporting data from bike stores using a combination of SQL, Excel, and Tableau. The process involves extracting data using SQL queries, performing analysis in Excel using pivot tables, and creating interactive dashboards in Tableau for comprehensive visualization and reporting.*
-
-***Key Steps:***
+**_Key Steps:_**
 
 **Data Extraction with SQL:**
 
@@ -30,7 +30,7 @@ Conducted further analysis within Excel to identify trends, patterns, and areas 
 
 Transferred analyzed data from Excel to Tableau for visualization.
 Developed interactive dashboards in Tableau to provide a comprehensive view of the bike stores' performance.
-Utilized Tableau features such as calculated fields, parameters, and dashboard actions for enhanced interactivity and flexibility.**
+Utilized Tableau features such as calculated fields, parameters, and dashboard actions for enhanced interactivity and flexibility.\*\*
 
 **Outcome:**
 
@@ -42,10 +42,8 @@ Utilized Tableau features such as calculated fields, parameters, and dashboard a
 
 **Screenshots:**
 
-
 1.![S](https://github.com/peterpavan/BikeStores--Dashboard-with-Tableau/assets/145839923/fd3084e8-9760-4a89-bb99-266e02fbad85)
 
 2.![s1](https://github.com/peterpavan/BikeStores--Dashboard-with-Tableau/assets/145839923/63ebc235-5456-4a6b-8170-bd6d212b8590)
 
-
-
+Hi This is srikanth
